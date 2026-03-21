@@ -96,7 +96,7 @@ function getWhatsAppLink(product: Product): string {
   const text = encodeURIComponent(
     `I want to order ${product.name} priced at ₹${product.price.toLocaleString("en-IN")}`,
   );
-  return `https://wa.me/919999999999?text=${text}`;
+  return `https://wa.me/917440739564?text=${text}`;
 }
 
 // --- Product Card ---
@@ -675,7 +675,7 @@ export default function App() {
               </p>
             </div>
             <a
-              href="https://wa.me/919999999999?text=Hi, I want to browse your collection"
+              href="https://wa.me/917440739564?text=Hi, I want to browse your collection"
               target="_blank"
               rel="noopener noreferrer"
               data-ocid="whatsapp.primary_button"
@@ -705,7 +705,7 @@ export default function App() {
               <h4 className="font-semibold mb-3">Contact Us</h4>
               <div className="space-y-1.5 text-sm text-white/80">
                 <p className="flex items-center gap-2">
-                  <Phone className="w-3.5 h-3.5" /> +91 99999 99999
+                  <Phone className="w-3.5 h-3.5" /> +91 74407 39564
                 </p>
                 <p className="flex items-center gap-2">
                   <MapPin className="w-3.5 h-3.5" /> Main Market, Local Area
