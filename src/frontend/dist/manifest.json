@@ -1,0 +1,18 @@
+{
+  "name": "Shri Prem Shanti Showroom",
+  "short_name": "SPSS Shop",
+  "description": "Shop ethnic wear online - Sarees, Lehengas, Suits & Sherwanis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7c1a1a",
+  "theme_color": "#7c1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/generated/app-icon-transparent.dim_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
